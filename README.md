@@ -1,7 +1,7 @@
 # IBMCloudPakForData
 This one contains custom template and scripts
 
-Template CreateSubnetsIBMCPD_gh.json contains a stripped down working version of the creation of custom subnets in an exsiting aws VPC.
+Template CreateSubnetsIBMCPD_gh.yaml contains a stripped down working version of the creation of custom subnets in an exsiting aws VPC.
 Before executing, you must update with your own values for VPC id, zone and CIDR
 It is based on IBM source:
 
